@@ -1,9 +1,11 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hello+user%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F;Welcome+to+my+GitHub+profile!;My+name+is+Ritish+Garg;I+am+a+Full+Stack+Developer&font=Consolas&color=00AFEC&size=22&center=true&width=800&height=50&duration=2900&pause=1000" alt="README Typing">
 </p>
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+<img align="right" height="250" width="375" alt="Coder GIF" height=250 width=350 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=RahulChoudhary05&label=Profile%20views&color=0e75b6&style=flat" alt="RahulChoudhary05" /> </p>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ritishgarg25&label=Profile%20views&color=0e75b6&style=flat" alt="ritishgarg25" /> </p>
 
 ### Talking about Personal Stuff:
 - 🌱 &nbsp; I’m currently learning Mern Stack.

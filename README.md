@@ -40,5 +40,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ritishgarg25&theme=omni&hide_border=false)<br/>
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)   
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
 </div> 

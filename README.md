@@ -9,7 +9,7 @@
 
 ### Talking about Personal Stuff:
 - 🌱 &nbsp; I’m currently learning Mern Stack.
-- 💬 &nbsp; Ask me about MEARN.
+- 💬 &nbsp; Ask me about making responsive sites.
 - 📫 &nbsp; Reach me out: ritishgarg2005@gmail.com.
 - ⚡ &nbsp; Fun fact: Console.log() is my best friend and therapist.
 

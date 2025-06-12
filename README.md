@@ -21,7 +21,6 @@
 <a href="https://instagram.com/ritishgarg25/"> <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&color=C13584&logoColor=white&style=for-the-badge" alt="Instagram" /> </a> 
 <a href="https://www.youtube.com/@ritishgarg25"> <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" alt="youtube logo"  /> </a> 
 </p>
- 
 
 ## 💻 Languages and Tools:
 <p align="center">

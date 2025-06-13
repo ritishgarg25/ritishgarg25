@@ -19,6 +19,7 @@
 <p align="center"> 
 <a href="https://www.linkedin.com/in/ritish-garg-9325b92b1/"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" /> </a> 
 <a href="https://instagram.com/ritishgarg25/"> <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&color=C13584&logoColor=white&style=for-the-badge" alt="Instagram" /> </a> 
+<a href="https://x.com/ritishgarg25"> <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white&style=for-the-badge" alt="X" /> </a>
 </p>
 
 ## 💻 Languages and Tools:

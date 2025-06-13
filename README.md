@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritishgarg25&label=Profile%20views&color=0e75b6&style=flat" alt="ritishgarg25" /> </p>
 
 ### Talking about Personal Stuff:
-- 🌱 &nbsp; I’m currently learning Mern Stack.
+- 🌱 &nbsp; I’m currently learning MERN Stack.
 - 💬 &nbsp; Ask me about making responsive sites.
 - 📫 &nbsp; Reach me out: ritishgarg2005@gmail.com.
 - ⚡ &nbsp; Fun fact: Console.log() is my best friend and therapist.
